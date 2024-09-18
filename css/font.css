@@ -1,0 +1,78 @@
+
+/******************************/
+/*     01. General Styles     */
+/******************************/
+
+@charset "UTF-8";
+
+
+
+/* ===================================
+    stc font
+====================================== */
+
+
+
+@font-face {
+	
+	
+font-family: STCForward-bold;
+
+src: local(STCForward-bold),url("../fonts/STCForward-Bold.otf") format("opentype");
+src: local(STCForward-bold), url("../fonts/STCForward-bold.ttf");
+src: local(STCForward-bold),url("../fonts/STCForward-bold.woff") format("woff");
+
+
+
+}
+
+
+@font-face {
+	
+font-family: STCForward-ExtraBold;
+
+src: local(STCForward-ExtraBold),url("../fonts/STCForward-ExtraBold.otf") format("opentype");
+src: local(STCForward-ExtraBold), url("../fonts/STCForward-ExtraBold.ttf");
+src: local(STCForward-ExtraBold),url("../fonts/STCForward-ExtraBold.woff") format("woff");
+
+
+
+}
+
+
+
+@font-face {
+	
+font-family:STCForward-Light;
+
+src: local(STCForward-Light),url("../fonts/STCForward-Light.otf") format("opentype");
+src: local(STCForward-Light), url("../fonts/STCForward-Light.ttf");
+src: local(STCForward-Light),url("../fonts/STCForward-Light.woff") format("woff");
+
+}
+
+
+@font-face {
+	
+font-family:STCForward-Medium;
+
+src: local(STCForward-Medium),url("../fonts/STCForward-Medium.otf") format("opentype");
+src: local(STCForward-Medium), url("../fonts/STCForward-Medium.ttf");
+src: local(STCForward-Medium),url("../fonts/STCForward-Medium.woff") format("woff");
+
+
+}
+
+
+@font-face {
+	
+	
+font-family:STCForward-Regular;
+
+src: local(STCForward-Regular),url("../fonts/STCForward-Regular.otf") format("opentype");
+src: local(STCForward-Regular), url("../fonts/STCForward-Regular.ttf");
+src: local(STCForward-Regular),url("../fonts/STCForward-Regular.woff") format("woff");
+
+}
+
+
