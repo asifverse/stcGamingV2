@@ -2701,7 +2701,7 @@ input:focus {
   -webkit-animation: spinner 1s infinite linear;
           animation: spinner 1s infinite linear;
   border-radius: 50%;
-  border: 4px solid rgba(255, 255, 255, 0.3137254902);
+  border: 5px solid #fff;
   border-top-color: var(--quaternary-color);
   height: 9em;
   margin: 0 auto 3.5em auto;
@@ -2724,7 +2724,7 @@ input:focus {
 .ctn-preloader .animation-preloader .txt-loading .letters-loading:before {
   -webkit-animation: letters-loading 4s infinite;
           animation: letters-loading 4s infinite;
-  color: var(--quaternary-color);
+  color: var(--primary-color);
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
@@ -2770,7 +2770,7 @@ input:focus {
 }
 
 .ctn-preloader .loader-section {
-  background-color: #030015;
+  background-color: var(--secondary-color);
   height: 100%;
   position: fixed;
   top: 0;
@@ -2779,12 +2779,12 @@ input:focus {
 
 .ctn-preloader .loader-section.section-left {
   left: 0;
-  background-color: var(--septenary-color);
+  background-color: var(--secondary-color);
 }
 
 .ctn-preloader .loader-section.section-right {
   right: 0;
-  background-color: var(--senary-color);
+  background-color: var(--secondary-color);
 }
 
 .loaded .animation-preloader {
@@ -2911,7 +2911,7 @@ input:focus {
 .header .navbar__item button,
 .header .navbar__item a {
   padding: 38px 12px 37px;
-  font-weight: 600;
+  font-weight: 500;
   width: 100%;
   color: var(--white);
   /* text-transform: uppercase; */
