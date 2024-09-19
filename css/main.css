@@ -15868,7 +15868,7 @@ input:focus {
     gap: 8px;
   }
   .header .navbar__logo img {
-    max-width: 30px;
+    max-width: 100px;
   }
   .header .navbar__items-wrapper,
   .header .navbar__items,
