@@ -124,7 +124,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/strategy.png",
+        texture: "./images/matter/Strategy.png",
         xScale: 1,
         yScale: 1,
       },
@@ -134,7 +134,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/ranking.png",
+        texture: "./images/matter/Ranking.png",
         xScale: 1,
         yScale: 1,
       },
@@ -144,7 +144,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/leagues.png",
+        texture: "./images/matter/Leagues.png",
         xScale: 1,
         yScale: 1,
       },
@@ -154,7 +154,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/arena.png",
+        texture: "./images/matter/Arena.png",
         xScale: 1,
         yScale: 1,
       },
@@ -164,7 +164,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/meta.png",
+        texture: "./images/matter/Meta.png",
         xScale: 1,
         yScale: 1,
       },
@@ -174,7 +174,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/ping.png",
+        texture: "./images/matter/Ping.png",
         xScale: 1,
         yScale: 1,
       },
@@ -184,7 +184,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/gamers.png",
+        texture: "./images/matter/Gamers.png",
         xScale: 1,
         yScale: 1,
       },
@@ -194,7 +194,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/esports.png",
+        texture: "./images/matter/Esports.png",
         xScale: 1,
         yScale: 1,
       },
@@ -204,7 +204,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/streaming.png",
+        texture: "./images/matter/Streaming.png",
         xScale: 1,
         yScale: 1,
       },
@@ -214,7 +214,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/events.png",
+        texture: "./images/matter/Events.png",
         xScale: 1,
         yScale: 1,
       },
@@ -224,7 +224,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/multiplayer.png",
+        texture: "./images/matter/Multiplayer.png",
         xScale: 1,
         yScale: 1,
       },
@@ -234,7 +234,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/teams.png",
+        texture: "./images/matter/Teams.png",
         xScale: 1,
         yScale: 1,
       },
@@ -244,7 +244,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/twitch.png",
+        texture: "./images/matter/Twitch.png",
         xScale: 1,
         yScale: 1,
       },
@@ -254,7 +254,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/virtual.png",
+        texture: "./images/matter/Virtual.png",
         xScale: 1,
         yScale: 1,
       },
@@ -264,7 +264,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/strategy.png",
+        texture: "./images/matter/Strategy.png",
         xScale: 1,
         yScale: 1,
       },
@@ -274,7 +274,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./images/matter/ranking.png",
+        texture: "./images/matter/Ranking.png",
         xScale: 1,
         yScale: 1,
       },
