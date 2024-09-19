@@ -44,7 +44,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Esports.png",
+        texture: "./images/matter/Esports.png",
         xScale: 1,
         yScale: 1,
       },
@@ -54,7 +54,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Events.png",
+        texture: "./images/matter/Events.png",
         xScale: 1,
         yScale: 1,
       },
@@ -64,7 +64,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Gamers.png",
+        texture: "./images/matter/Gamers.png",
         xScale: 1,
         yScale: 1,
       },
@@ -74,7 +74,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Multiplayer.png",
+        texture: "./images/matter/Multiplayer.png",
         xScale: 1,
         yScale: 1,
       },
@@ -84,7 +84,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Streaming.png",
+        texture: "./images/matter/Streaming.png",
         xScale: 1,
         yScale: 1,
       },
@@ -94,7 +94,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Teams.png",
+        texture: "./images/matter/Teams.png",
         xScale: 1,
         yScale: 1,
       },
@@ -104,7 +104,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Twitch.png",
+        texture: "./images/matter/Twitch.png",
         xScale: 1,
         yScale: 1,
       },
@@ -114,7 +114,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/Virtual.png",
+        texture: "./images/matter/Virtual.png",
         xScale: 1,
         yScale: 1,
       },
@@ -124,7 +124,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/strategy.png",
+        texture: "./images/matter/strategy.png",
         xScale: 1,
         yScale: 1,
       },
@@ -134,7 +134,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/ranking.png",
+        texture: "./images/matter/ranking.png",
         xScale: 1,
         yScale: 1,
       },
@@ -144,7 +144,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/leagues.png",
+        texture: "./images/matter/leagues.png",
         xScale: 1,
         yScale: 1,
       },
@@ -154,7 +154,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/arena.png",
+        texture: "./images/matter/arena.png",
         xScale: 1,
         yScale: 1,
       },
@@ -164,7 +164,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/meta.png",
+        texture: "./images/matter/meta.png",
         xScale: 1,
         yScale: 1,
       },
@@ -174,7 +174,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/ping.png",
+        texture: "./images/matter/ping.png",
         xScale: 1,
         yScale: 1,
       },
@@ -184,7 +184,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/gamers.png",
+        texture: "./images/matter/gamers.png",
         xScale: 1,
         yScale: 1,
       },
@@ -194,7 +194,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/esports.png",
+        texture: "./images/matter/esports.png",
         xScale: 1,
         yScale: 1,
       },
@@ -204,7 +204,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/streaming.png",
+        texture: "./images/matter/streaming.png",
         xScale: 1,
         yScale: 1,
       },
@@ -214,7 +214,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/events.png",
+        texture: "./images/matter/events.png",
         xScale: 1,
         yScale: 1,
       },
@@ -224,7 +224,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/multiplayer.png",
+        texture: "./images/matter/multiplayer.png",
         xScale: 1,
         yScale: 1,
       },
@@ -234,7 +234,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/teams.png",
+        texture: "./images/matter/teams.png",
         xScale: 1,
         yScale: 1,
       },
@@ -244,7 +244,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/twitch.png",
+        texture: "./images/matter/twitch.png",
         xScale: 1,
         yScale: 1,
       },
@@ -254,7 +254,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/virtual.png",
+        texture: "./images/matter/virtual.png",
         xScale: 1,
         yScale: 1,
       },
@@ -264,7 +264,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/strategy.png",
+        texture: "./images/matter/strategy.png",
         xScale: 1,
         yScale: 1,
       },
@@ -274,7 +274,7 @@ function startSim() {
     chamfer: { radius: rad },
     render: {
       sprite: {
-        texture: "./assets/images/matter/ranking.png",
+        texture: "./images/matter/ranking.png",
         xScale: 1,
         yScale: 1,
       },
