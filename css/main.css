@@ -2064,6 +2064,7 @@ svg {
 }
 
 .btn--secondary {
+  cursor: pointer;
   padding: 14px 30px 12px;
   font-weight: 700;
   background-color: var(--quaternary-color);
@@ -5063,7 +5064,7 @@ input:focus {
 }
 .banner .banner__slider-single .content {
   position: absolute;
-  bottom: 150px;
+  bottom: 100px;
   left: 0px;
   right: 0px;
   z-index: 2;
@@ -14560,7 +14561,7 @@ input:focus {
     right: 0px;
   }
   .banner h2 {
-    font-size: 56px;
+    font-size: 46px;
     line-height: 60px;
   }
   .banner-two {
