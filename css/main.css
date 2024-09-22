@@ -1407,15 +1407,10 @@ svg {
   width: 0px;
 }
 .nftg-app .nftg-layout {
-  width: calc(100% - 97px);
-  -webkit-box-flex: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-  margin-left: 97px;
+  width: 100%;
   height: 100%;
 }
 .nftg-app .nftg-content {
-  padding: 0px 12px;
   margin-top: 100px;
   overflow-x: clip;
 }
@@ -7237,8 +7232,6 @@ input:focus {
 }
 .community-two {
   background-color: var(--senary-color);
-  margin-left: 12px;
-  margin-right: 12px;
 }
 .community-two .community-two__single {
   padding: 30px 40px;
@@ -16263,3 +16256,9 @@ input:focus {
  .choose-slider .swiper-slide p{
   margin-top: 10px;
  }
+
+
+
+
+
+ 
