@@ -838,7 +838,7 @@
           slidesPerView: 4,
         },
         1400: {
-          slidesPerView: 5,
+          slidesPerView: 4,
         },
       },
     });
@@ -861,8 +861,8 @@
             pauseOnMouseEnter: true,
           },
           navigation: {
-            nextEl: ".next-device",
-            prevEl: ".prev-device",
+            nextEl: ".next-devices",
+            prevEl: ".prev-devices",
           },
           pagination: {
             el: ".devices-slider-progress",
@@ -1248,10 +1248,10 @@
           slidesPerView: 3,
         },
         992: {
-          slidesPerView: 7,
+          slidesPerView: 8,
         },
         1600: {
-          slidesPerView: 7,
+          slidesPerView: 8,
         },
       },
     });
