@@ -810,6 +810,7 @@
      */
     var featureSlider = new Swiper(".feature-slider", {
       loop: true,
+      center:true,
       speed: 1000,
       slidesPerView: 1,
       spaceBetween: 22,
@@ -1116,6 +1117,7 @@
         var gamingSlider = new Swiper(".GamingDevices-slider", {
           loop: true,
           speed: 1000,
+          center:true,
           slidesPerView: 1,
           spaceBetween: 30,
           freeMode: true,
@@ -1228,6 +1230,7 @@
     var chooseSlider = new Swiper(".choose-slider", {
       loop: true,
       speed: 1000,
+      center:true,
       slidesPerView: 1,
       spaceBetween: 24,
       freeMode: true,
