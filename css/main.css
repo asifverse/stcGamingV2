@@ -178,9 +178,9 @@ button {
 a,
 button {
   text-decoration: none;
-  display: -webkit-inline-box;
+  /* display: -webkit-inline-box;
   display: -ms-inline-flexbox;
-  display: inline-flex;
+  display: inline-flex; */
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -6627,7 +6627,7 @@ input:focus {
   padding-bottom: 6px;
   overflow: hidden;
 }
-.choose-area a::before {
+/* .choose-area a::before {
   content: "";
   position: absolute;
   left: 0px;
@@ -6651,7 +6651,7 @@ input:focus {
   transition: var(--transition);
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
-}
+} */
 .choose-area a i {
   font-size: 24px;
   position: relative;
