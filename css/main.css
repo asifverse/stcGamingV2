@@ -1983,6 +1983,24 @@ svg {
 /* ==== 
  --------- (3.01) buttons styles start ---------
  ==== */
+
+
+ .btn--normal {
+  padding: 12px 32px;
+  font-weight: 600;
+  background-color: var(--tertiary-color);
+  color: var(--white);
+  border-radius: 4px;
+}
+
+
+.btn--normal:hover {
+  background-color: var(--white);
+  color: var(--tertiary-color);
+}
+
+
+
 .btn--primary {
   padding: 16px 24px;
   font-weight: 600;
