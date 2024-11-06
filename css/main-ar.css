@@ -1993,6 +1993,7 @@ svg {
   border-radius: 4px;
 }
 
+
 .btn--normal:hover {
   background-color: var(--white);
   color: var(--tertiary-color);
@@ -2010,6 +2011,8 @@ svg {
   background-color: var(--tertiary-color);
   color:#fff !important;
 }
+
+
 
 .btn--primary {
   padding: 16px 24px;
@@ -6734,7 +6737,7 @@ input:focus {
   position: absolute;
   bottom: 0px;
   top: 0px;
-  right: 12%;
+  left: 12%;
   z-index: 2;
 }
 .cta .cta__thumb img {
@@ -14656,7 +14659,7 @@ input:focus {
     position: absolute;
     bottom: 0px;
     top: unset;
-    right: 5%;
+    left: 5%;
   }
   .cta .cta__thumb img {
     max-width: 20vw;
