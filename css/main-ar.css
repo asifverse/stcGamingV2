@@ -5309,7 +5309,7 @@ input:focus {
 .footer .footer-thumb {
   position: absolute;
   bottom: 10px;
-  right: 0px;
+  left: 0px;
   z-index: -1;
 }
 .footer .footer-thumb img {
