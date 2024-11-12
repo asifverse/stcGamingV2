@@ -1920,14 +1920,14 @@ svg {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border: 2px solid var(--tertiary-color);
-  font-size: 30px;
-  color: var(--tertiary-color);
+  /* border: 2px solid var(--septenary-color); */
+  font-size: 40px;
+  color: var(--septenary-color);
 }
 .slider-footer .slider-btn:hover {
-  background-color: var(--tertiary-color);
-  color: var(--white);
-  border-color: var(--tertiary-color);
+  /* background-color: var(--septenary-color); */
+  color: var(--septenary-color);
+  /* border-color: var(--tertiary-color); */
 }
 .slider-footer .pagination-two {
   -webkit-box-flex: 1;
