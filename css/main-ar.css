@@ -6684,11 +6684,11 @@ input:focus {
   right: 0px;
   background-color: var(--primary-color);
 }
-.choose-area a:hover i {
+/* .choose-area a:hover i {
   -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
-}
+} */
 
 .cta {
   position: relative;
@@ -16345,5 +16345,48 @@ input:focus {
 }
 
 
+.tournaments .tournaments__filter{
+  background-color: #f3f3f1 !important;
+}
 
- 
+
+.tournaments .tournament-wrapper-border{
+  padding: 0px;
+  border:none;
+  border-radius: 32px;
+
+}
+
+.tournaments .tournaments__filter{
+  justify-content: center !important; 
+}
+
+.tournaments__filter-left .btn--normal{
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .tournaments .tournaments__filter{
+    padding: 25px 25px;
+  }
+  .tournaments__filter-left .btn--normal{
+    margin-top: 10px;
+  }
+  .tournaments__filter-left{
+    text-align: center !important;
+  }
+}
+
+.viewallLink{
+  font-weight: bold;
+  color: var(--septenary-color);
+}
+
+.viewallLink:hover{
+  color: var(--septenary-color) !important;
+}
+
+.viewallLink i{
+  position: relative;
+  top: 5px;
+}
