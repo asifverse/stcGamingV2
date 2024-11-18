@@ -1,12 +1,5 @@
 /* ==============
  ========= js documentation ==========================
-
- * template name: NFTG
- * version: 1.0
- * description: eSports and Gaming NFT HTML5 Template
- * author: pixelaxis
- * author-url: https://themeforest.net/user/pixelaxis
-
     ==================================================
 
      01. get device width
@@ -809,7 +802,7 @@
      * ======================================
      */
     var featureSlider = new Swiper(".feature-slider", {
-      loop: true,
+      loop: false,
       center:true,
       speed: 1000,
       slidesPerView: 1,
@@ -844,14 +837,13 @@
       },
     });
 
-
         /**
      * ======================================
      * 20. feature slider
      * ======================================
      */
         var devicesSlider = new Swiper(".devices-slider", {
-          loop: true,
+          loop: false,
           speed: 1000,
           slidesPerView: 1,
           spaceBetween: 30,
@@ -1107,8 +1099,7 @@
         },
       },
     });
-
-
+    
         /**
      * ======================================
      * 28. Gaming Devices slider
@@ -1183,12 +1174,12 @@
         },
       },
     });
-
     /**
      * ======================================
      * 30. last stream slider
      * ======================================
      */
+
     var lastStream = new Swiper(".last-streams-slider", {
       loop: true,
       speed: 1000,
@@ -1227,18 +1218,20 @@
      * 31. choose slider
      * ======================================
      */
+
     var chooseSlider = new Swiper(".choose-slider", {
-      loop: true,
+      loop: false,
       speed: 1000,
       center:true,
       slidesPerView: 1,
       spaceBetween: 24,
       freeMode: true,
-      autoplay: {
-        delay: 5000,
-        disableOnInteraction: false,
-        pauseOnMouseEnter: true,
-      },
+      autoplay:false,
+      // autoplay: {
+      //   delay: 5000,
+      //   disableOnInteraction: false,
+      //   pauseOnMouseEnter: true,
+      // },
       navigation: {
         nextEl: ".next-choose",
         prevEl: ".prev-choose",
@@ -1264,6 +1257,7 @@
      * 32. trending two slider
      * ======================================
      */
+
     var trendingNftSlider = new Swiper(".trending-nft-slider", {
       loop: true,
       speed: 1000,
@@ -1338,6 +1332,7 @@
      * 35. package slider
      * ======================================
      */
+
     var packageSlider = new Swiper(".package-slider", {
       loop: false,
       speed: 1000,
@@ -1380,6 +1375,7 @@
      * 36. avatar slider
      * ======================================
      */
+
     var avatarSlider = new Swiper(".package-slider-avatar", {
       loop: false,
       speed: 1000,
@@ -1422,6 +1418,7 @@
      * 37. entity slider
      * ======================================
      */
+    
     var entitySlider = new Swiper(".package-slider-entity", {
       loop: false,
       speed: 1000,
