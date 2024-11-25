@@ -361,7 +361,7 @@ h2 {
 }
 
 h3 {
-  font-size: 40px;
+  font-size: 38px;
   line-height: 50px;
 }
 
@@ -6727,7 +6727,7 @@ input:focus {
   max-width: 860px;
 }
 
-.cta .cta__content h2 {
+.cta .cta__content h3 {
   color:var(--white);
 }
 .cta .cta__thumb {
