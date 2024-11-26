@@ -5492,6 +5492,7 @@ input:focus {
   color: var(--black);
 }
 .feature .content {
+  height: 200px;
   padding: 40px;
   background-color: var(--secondary-color);
   margin-top: -40px;
@@ -16389,4 +16390,14 @@ input:focus {
 .viewallLink i{
   position: relative;
   top: 5px;
+}
+
+.start-date p{
+  color: var(--quaternary-color) !important;
+  font-size: 19px;
+}
+
+.img-flip img{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
