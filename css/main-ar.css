@@ -156,6 +156,14 @@ body::-webkit-scrollbar-button, body::-webkit-scrollbar-thumb {
   border-radius: 5px;
 }
 
+.bg-purple{
+  background-color: #4f008c !important;
+}
+
+.bg-coral{
+  background-color: #ff375e !important;
+}
+
 .body-active {
   height: 100vh;
   overflow: clip;
@@ -5480,7 +5488,7 @@ input:focus {
       -ms-flex-align: center;
           align-items: center;
   gap: 5px;
-  padding: 8px 16px 4px;
+  padding: 8px 20px 8px;
   background-color: var(--white);
   border-radius: 20px;
   z-index: 1;
@@ -5489,10 +5497,10 @@ input:focus {
   color: var(--primary-color);
 }
 .feature .thumb .price-tag span {
-  color: var(--black);
+  color: var(--white);
 }
 .feature .content {
-  height: 200px;
+  height: 225px;
   padding: 40px;
   background-color: var(--secondary-color);
   margin-top: -40px;
