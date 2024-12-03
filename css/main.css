@@ -16402,3 +16402,26 @@ input:focus {
   color: var(--quaternary-color) !important;
   font-size: 18px;
 }
+
+.tags{
+  border-radius: 5px;
+  color: #fff !important;
+  font-size: 12px;
+  font-weight: 400;
+  font-weight: 500;
+  height: 44px;
+  letter-spacing: .5px;
+  line-height: 19px;
+  padding: 5px;
+  position: absolute;
+  top: -30px;
+  z-index: 0;
+  }
+
+.swiper-wrapper{
+  padding-top: 3rem;
+}
+
+.tags span {
+  color: #fff;
+}
