@@ -5549,7 +5549,7 @@ input:focus {
   border-radius: 0px 0px 15px 15px;
 }
 .trending .thumb {
-  border-radius: 15px 0px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
   overflow: hidden;
   background: #f3f3f1;
 }
