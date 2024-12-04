@@ -16425,10 +16425,11 @@ input:focus {
   z-index: 0;
   }
 
-.swiper-wrapper{
-  padding-top: 3rem;
-}
-
+  .feature .swiper-wrapper{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
 .tags span {
   color: #fff;
 }
