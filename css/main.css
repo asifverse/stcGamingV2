@@ -16420,9 +16420,15 @@ input:focus {
 
 .feature .swiper-wrapper{
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  /* padding-bottom: 2rem; */
 }
 
 .tags span {
   color: #fff;
+}
+
+.feature .desc{
+  font-size: 19px;
+  color: #1D252D;
+  margin-top: 1rem;
 }

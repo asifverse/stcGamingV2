@@ -5652,8 +5652,8 @@ input:focus {
   color: var(--tertiary-color);
 }
 .trending .author-title {
-  padding-left: 16px;
-  border-left: 1px solid #fff;
+  padding-right: 16px;
+  border-right: 1px solid #fff;
   opacity: .7;
 }
 .trending .author-title p {
@@ -16427,9 +16427,15 @@ input:focus {
 
   .feature .swiper-wrapper{
     padding-top: 2rem;
-    padding-bottom: 2rem;
+    /* padding-bottom: 2rem; */
   }
   
 .tags span {
   color: #fff;
+}
+
+.feature .desc{
+  font-size: 19px;
+  color: #1D252D;
+  margin-top: 1rem;
 }
