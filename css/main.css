@@ -183,6 +183,12 @@ button {
   outline: 0px;
 }
 
+
+
+.banner .swiper-slide a{
+  display: block;
+}
+
 a,
 button {
   text-decoration: none;
@@ -200,6 +206,9 @@ button {
   cursor: pointer;
   color: var(--template-color);
 }
+
+
+
 a i,
 a span,
 button i,
@@ -16380,6 +16389,10 @@ input:focus {
   .tournaments__filter-left{
     text-align: center !important;
   }
+
+  .bottomBanner .cta .cta__thumb img{
+    display: none;
+  }
 }
 
 
@@ -16431,4 +16444,15 @@ input:focus {
   font-size: 19px;
   color: #1D252D;
   margin-top: 1rem;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .banner .hide-mobile{
+    display:none;
+  }
+
+  .cta .cta__thumb{
+    display: none;
+  }
 }
